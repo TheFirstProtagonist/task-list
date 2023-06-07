@@ -1,4 +1,4 @@
-# Lista de Tarefas App
+# task list
 
 Este é um aplicativo de lista de tarefas simples desenvolvido em TypeScript e React. Permite que você adicione tarefas, exclua tarefas e visualize uma lista de tarefas persistente usando o armazenamento local do navegador.
 
@@ -19,8 +19,8 @@ Este é um aplicativo de lista de tarefas simples desenvolvido em TypeScript e R
 Siga as instruções abaixo para executar o aplicativo em seu ambiente local:
 
 1. Certifique-se de ter o Node.js instalado em seu computador.
-2. Clone este repositório para o seu computador usando o comando: `git clone https://github.com/seu-usuario/lista-de-tarefas-app.git`.
-3. Navegue até o diretório do projeto: `cd lista-de-tarefas-app`.
+2. Clone este repositório para o seu computador usando o comando: `git clone https://github.com/seu-usuario/task-list.git`.
+3. Navegue até o diretório do projeto: `cd task-list`.
 4. Instale as dependências do projeto usando o npm ou yarn: `npm install` ou `yarn install`.
 5. Inicie o servidor de desenvolvimento: `npm start` ou `yarn start`.
 6. Acesse o aplicativo em seu navegador no endereço: `http://localhost:3000`.
